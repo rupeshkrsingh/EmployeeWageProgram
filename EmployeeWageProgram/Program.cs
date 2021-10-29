@@ -7,6 +7,7 @@ namespace EmployeeWageProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Demo Branch!");
         }
     }
 }
